@@ -35,7 +35,7 @@ The first column shows time and date range (from march of 2017 until september o
 The second and third columns are quality measures of the iron ore pulp right before it is fed into the flotation plant. Column 4 until column 8 are the most important variables that impact in the ore quality in the end of the process. From column 9 until column 22, we can see process data (level and air flow inside the flotation columns, which also impact in ore quality. The last two columns are the final iron ore pulp quality measurement from the lab. Target is to predict the last column, which is the % of silica in the iron ore concentrate.
 
 Inspiration
-I have been working in this dataset for at least six months and would like to see if the community can help to answer the following questions:
+I have been working in this dataset for at least six months and would like to see if anyone can help to answer the following questions:
 
 Is it possible to predict % Silica Concentrate every minute?
 
